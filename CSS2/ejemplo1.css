@@ -1,0 +1,31 @@
+ .contenedor {
+	border: 2px solid black;
+	width: 450px;
+	height: 450px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.caja {
+	width: 150px;
+	height: 150px;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+    
+    
+}
+.ejemplo1 {
+	background: red;
+	color: black;
+}
+.ejemplo2 {
+	background: blue;
+	color: black;                                                                                              
+}
+.ejemplo3 {
+	background:green;
+	color: black;
+}
+
